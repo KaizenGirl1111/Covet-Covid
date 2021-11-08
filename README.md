@@ -1,2 +1,3 @@
 # Covid-Tracker
-<h2>An app build on Java, updating you with the latest COVID-19 data all over the world.
+<h2>About
+An application made during Athena Hacks. This is a COVID world tracker essential while travelling etc.</h2>
